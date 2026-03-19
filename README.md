@@ -1,10 +1,6 @@
 # Symposium-Payment-Analysis
 This project is a Power BI dashboard built to analyze symposium registration payment data.
 
-# Symposium-Payment-Analysis
-
-This project presents a Power BI dashboard developed to analyze symposium registration payment data. It offers a clear overview of revenue collection, participant demographics, payment methods, payment status, and transaction trends across dates. The dashboard is designed to help organizers track payment performance and gain meaningful insights for future event planning.
-
 ## Project Objective
 The objective of this project is to use Power BI to transform raw symposium payment data into an interactive dashboard that supports better understanding of payment behavior, total collection, participant distribution, and payment completion trends.
 
